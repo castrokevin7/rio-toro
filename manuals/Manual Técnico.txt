@@ -1,0 +1,33 @@
+
+Este documento proporciona la información técnica necesaria relacionada con la instalación y configuración del Manejador de Contenido (CMS) Drupal y sus requisitos básicos, con el fin de desarrollar aplicaciones web como previa en localhost.
+
+1. Instalación de Ubuntu 15.01.
+
+2. Instalación y configuración del stack de progamación web LAMP.
+	2.1 Linux Ubuntu 15.01.
+	2.2 Apache2.
+		2.2.1 Configuración de los archivos del Web Server en /var/www/html.
+	2.3 MySQL.
+		2.3.1 Creación de usuario para el manejo de la Base de Datos (BD).
+		2.3.2 Creación de la BD para almacenar el contenido de la página web.
+		2.3.3 Garantización de los privilegios del usuario creado.
+	2.4 PHP5.
+
+3. Instalación de Drupal 7.42.
+	3.1 Almacenamiento de los archivos de instalación en /var/www/html.
+	3.2 Instalación gráfica en el navegador en localhost.
+
+4. Configuración básica de Drupal.
+	4.1 Instalación de módulos.
+		4.1.1 Una vez descargados los módulos, el contenido del fichero se almacena en /var/www/html/sites/all/modules.
+		4.1.2 Se procede a configurar de forma gráfica en el navegador en localhost.
+	4.2 Instalación de temas/subtemas.
+		4.2.1 Una vez descargados los temas/subtemas, el contenido del fichero se almacena en /var/www/html/sites/all/themes.
+		4.1.2 Se procede a configurar de forma gráfica en el navegador en localhost.
+
+Extras:
+Respaldar/restaurar la Base de Datos donde se almacena el contenido de la página web.
+
+	Respaldar: # mysqldump -u root -p [database_name] > dumpfilename.sql
+
+	Restaurar:# mysql -u root -p [database_name] < dumpfilename.sql
