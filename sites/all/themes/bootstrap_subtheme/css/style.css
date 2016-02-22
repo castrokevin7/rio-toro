@@ -1,8 +1,19 @@
 
+body {
+	background: #FFFFFF url('../images/footer_lodyas.jpg') top left repeat;
+	color: white;
+}
+
 .page-header {
 	margin: 0;
 }
 
+.carousel-caption h3 a {
+	color: black;
+	font-size: 0.8em;
+}
+
 .block-title {
 	font-size: 1.7em;
+	color: black;
 }
