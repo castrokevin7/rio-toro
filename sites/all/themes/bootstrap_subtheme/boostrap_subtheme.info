@@ -33,4 +33,6 @@ stylesheets[all][] = css/style.css
 
 scripts[] = 'jquery.smartmenus.js'
 scripts[] = 'addons/bootstrap/jquery.smartmenus.bootstrap.js'
+scripts[] = 'js/script.js'
+
 

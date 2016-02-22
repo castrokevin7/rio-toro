@@ -1,3 +1,8 @@
-/**
- * Place your custom styles here.
- */
+
+.page-header {
+	margin: 0;
+}
+
+.block-title {
+	font-size: 1.7em;
+}
