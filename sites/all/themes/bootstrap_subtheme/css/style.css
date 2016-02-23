@@ -9,10 +9,6 @@ body {
 	border-bottom: 1px solid #b3b3b3;
 }
 
-/*.carousel-caption h3 a {
-	font-size: 0.8em;
-}*/
-
 .block-title {
 	font-size: 1.7em;
 }
@@ -31,4 +27,14 @@ body {
 
 #block-views-publications-view-block .view {
 	margin: 10px;	
+}
+
+.col-md-4 {
+	padding: 0 10px 0 10px;
+}
+.col-md-4 h2 {
+	font-size: 22px;
+}
+.col-md-4 p {
+	text-align: justify;
 }
