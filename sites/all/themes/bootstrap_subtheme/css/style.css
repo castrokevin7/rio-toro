@@ -1,15 +1,14 @@
 
+/*
 body {
 	background: #FFFFFF url('../images/footer_lodyas.jpg') top left repeat;
 }
-
+*/
 .page-header {
 	margin: 5px;
-	color: white;
 }
 
 .carousel-caption h3 a {
-	color: black;
 	font-size: 0.8em;
 }
 
