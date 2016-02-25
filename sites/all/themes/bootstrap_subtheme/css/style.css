@@ -48,5 +48,9 @@ body {
 }
 
 #block-views-slideshow-researches-block {
-	padding-top: 20px;
+	padding-top: 20px;	
+}
+
+#block-views-slideshow-researches-block .caption {
+	text-align: justify;
 }
