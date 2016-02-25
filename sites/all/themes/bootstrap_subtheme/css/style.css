@@ -46,3 +46,7 @@ body {
 .carousel-caption a {
 	color: #1affff;
 }
+
+#block-views-slideshow-researches-block {
+	padding-top: 20px;
+}
