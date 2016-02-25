@@ -9,7 +9,7 @@ body {
 }
 
 .page-header {
-	margin: 5px;
+	margin: 5px 5px 20px 5px;
 	border-bottom: 1px solid #b3b3b3;
 }
 
@@ -41,4 +41,8 @@ body {
 }
 .col-md-4 p {
 	text-align: justify;
+}
+
+.carousel-caption a {
+	color: #1affff;
 }
