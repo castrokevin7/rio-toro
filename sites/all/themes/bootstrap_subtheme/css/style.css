@@ -57,5 +57,11 @@ body {
 
 #block-views-front-3-columns-block {
 	text-align: justify;
-	padding: 10px;	
+	padding: 10px;
+	padding-top: 25px;	
+}
+
+#block-views-hydrology-projects-block .caption {
+	text-align: justify;	
+	padding: 20px;
 }
