@@ -3,6 +3,11 @@ Este documento proporciona la información técnica necesaria relacionada con la
 
 1. Instalación de Ubuntu 15.01.
 
+	Nombre de la máquina: rio.toro
+	Nombre del usuario: Río Toro 2016
+	Usuario: riotoro
+	Password: Rio_2016.
+
 2. Instalación y configuración del stack de progamación web LAMP.
 	2.1 Linux Ubuntu 15.01.
 	2.2 Apache2.
@@ -11,11 +16,18 @@ Este documento proporciona la información técnica necesaria relacionada con la
 		2.3.1 Creación de usuario para el manejo de la Base de Datos (BD).
 		2.3.2 Creación de la BD para almacenar el contenido de la página web.
 		2.3.3 Garantización de los privilegios del usuario creado.
+
+		Usuario: admin
+		Password: Rio_2016.
+
 	2.4 PHP5.
 
 3. Instalación de Drupal 7.42.
 	3.1 Almacenamiento de los archivos de instalación en /var/www/html.
 	3.2 Instalación gráfica en el navegador en localhost.
+
+	Usuario: admin
+	Password: Rio_2016.
 
 4. Configuración básica de Drupal.
 	4.1 Instalación de módulos.
