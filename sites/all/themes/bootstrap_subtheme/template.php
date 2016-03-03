@@ -3,7 +3,7 @@
 /**
  * Overrides theme_menu_link().
  */
-function boostrap_subtheme_menu_link(array $variables) {
+function bootstrap_subtheme_menu_link(array $variables) {
   $element = $variables['element'];
   $sub_menu = '';
  
