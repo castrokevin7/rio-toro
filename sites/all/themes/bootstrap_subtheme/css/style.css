@@ -1,5 +1,5 @@
 
-
+/* General */
 body {
 	background: #FFFFFF url('../images/honey_im_subtle.jpg') top left repeat;
 }
@@ -17,19 +17,32 @@ body {
 	font-size: 1.7em;
 }
 
+.footer {
+	border-top: 1px solid #b3b3b3;
+}
+
+/* Researches */
 #block-views-slideshow-researches-block {
 	text-align: justify;
 	padding-top: 20px;	
 }
+#block-views-slideshow-researches-block .caption h3 {
+	font-size: 22px;
+}
+#block-views-slideshow-researches-block-1 {
+	margin-top: 30px;
+	border-top: 1px solid #b3b3b3;
+}
+#block-views-slideshow-researches-block-1 .caption {
+	text-align: justify;
+	padding: 10px;
+}
 
+/* Front Page */
 #block-views-front-3-columns-block {
 	text-align: justify;
 	padding: 10px;
 	padding-top: 25px;	
-}
-
-.footer {
-	border-top: 1px solid #b3b3b3;
 }
 
 /* Recent: News and Publications */
@@ -79,8 +92,15 @@ body {
 	padding: 20px;
 }
 
+/* Researchers */
 #block-views-researchers-block .media-body {
 	text-align: justify;
+}
+#block-views-researchers-block .caption {
+	text-align: justify;
+}
+#block-views-researchers-block .caption h3 {
+	text-align: left;
 }
 
 /* Timelines: News and Publication */
