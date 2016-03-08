@@ -5,7 +5,7 @@ body {
 }
 
 .main-container {
-	padding: 20px 0 50px 0;
+	padding: 5px 0 50px 0;
 }
 
 .page-header {
@@ -24,11 +24,6 @@ body {
 .footer-menu li {
 	display: inline-block;
 }
-
-/*
-#navbar a {
-	font-size: 20px;
-}*/
 
 /* Researches */
 #block-views-slideshow-researches-block {
@@ -126,7 +121,6 @@ body {
 }
 
 /* Timelines: News and Publication */
-
 #block-views-timeline-block-1 p {
 	text-align: justify;
 	color: #000d1a;
