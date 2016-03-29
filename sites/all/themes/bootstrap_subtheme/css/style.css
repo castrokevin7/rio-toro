@@ -181,3 +181,20 @@ body {
 .field-name-field-gallery {
 	padding-top: 20px;
 }
+
+#block-locale-language li {
+	display: inline;	
+	float: right;
+}
+
+#block-locale-language li img {
+	padding: 0;
+	border: 0;
+	margin: 2px;
+}
+
+#block-locale-language li .es img {
+	width: 5px;
+	height: 5px;
+}
+
