@@ -193,8 +193,7 @@ body {
 	margin: 2px;
 }
 
-#block-locale-language li .es img {
-	width: 5px;
-	height: 5px;
+#block-locale-language .en .language-icon {
+	width: 35px;
+	height: 23px;
 }
-
