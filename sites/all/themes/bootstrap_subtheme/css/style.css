@@ -128,6 +128,17 @@ body {
 #block-views-projects-views-block-3 .caption h3 {
 	text-align: center;
 }
+#block-views-projects-views-block-6 img {
+	display: block;
+	margin: 10px auto 0 auto;
+}
+#block-views-projects-views-block-6 .caption {
+	text-align: justify;	
+	padding: 20px;
+}
+#block-views-projects-views-block-6 .caption h3 {
+	text-align: center;
+}
 
 #block-views-projects-views-block-8 .flex-caption {
 	position: absolute;
