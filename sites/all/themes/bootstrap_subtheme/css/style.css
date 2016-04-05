@@ -144,9 +144,9 @@ body {
 }
 
 /* Researchers */
-#block-views-researchers-block .media-body {
+/*#block-views-researchers-block .media-body {
 	text-align: justify;
-}
+}*/
 #block-views-researchers-block .caption {
 	text-align: justify;
 }
