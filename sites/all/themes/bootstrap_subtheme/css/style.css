@@ -129,20 +129,6 @@ body {
 	text-align: center;
 }
 
-#block-views-projects-views-block-8 .flex-caption {
-	position: absolute;
-	bottom: 0;
-	left: 0;
-	right: 0;
-	background: #000;
-	color: #fff;
-	padding: 10px;
-}
-#block-views-projects-views-block-8 .flex-caption a {
-	font-size: 20px;
-	text-align: center;
-}
-
 /* Researchers */
 /*#block-views-researchers-block .media-body {
 	text-align: justify;
@@ -181,18 +167,49 @@ body {
 	padding-top: 20px;
 }
 
+/* Language Icons */
 #block-locale-language li {
 	display: inline;	
 	float: right;
 }
-
 #block-locale-language li img {
 	padding: 0;
 	border: 0;
 	margin: 2px;
 }
-
 #block-locale-language .en .language-icon {
 	width: 35px;
 	height: 23px;
 }
+
+
+
+
+
+/*#block-views-slideshow-researches-block-2 .views-field-field-research-description {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background: #000;
+	color: #fff;
+	padding: 10px;
+}
+#block-views-slideshow-researches-block-2 .views-field-title a {
+	font-size: 20px;
+	text-align: center;
+}
+
+#block-views-projects-views-block-8 .flex-caption {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background: #000;
+	color: #fff;
+	padding: 10px;
+}
+#block-views-projects-views-block-8 .flex-caption a {
+	font-size: 20px;
+	text-align: center;
+}*/
