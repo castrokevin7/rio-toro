@@ -222,6 +222,20 @@ body {
 	text-align: center;
 }*/
 
+#block-views-researchers-block-2 .views-field-field-researcher-photo {
+	padding-bottom: 40px; 
+}
+#block-views-researchers-block-2 .views-field-title {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background: #000;
+	color: #fff;
+	padding: 10px;
+	text-align: center;
+	font-size: 20px;
+}
 #block-views-researchers-block-2 .flex-control-paging li a {
 	height: 0;
 	width: 0;
