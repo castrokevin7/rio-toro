@@ -26,6 +26,10 @@ body {
 	display: inline-block;
 }
 
+.breadcrumb {
+	margin-top: 5px;
+}
+
 /* Researches */
 #block-views-slideshow-researches-block {
 	text-align: justify;
@@ -217,3 +221,8 @@ body {
 	font-size: 20px;
 	text-align: center;
 }*/
+
+#block-views-researchers-block-2 .flex-control-paging li a {
+	height: 0;
+	width: 0;
+}
