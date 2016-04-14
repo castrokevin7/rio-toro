@@ -130,9 +130,6 @@ body {
 }
 
 /* Researchers */
-/*#block-views-researchers-block .media-body {
-	text-align: justify;
-}*/
 #block-views-researchers-block .caption {
 	text-align: justify;
 }
@@ -182,9 +179,16 @@ body {
 	height: 23px;
 }
 
-
-
-
+#block-views-front-3-columns-block-1 .views-field-title a {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background: #000;
+	padding: 10px;
+	font-size: 20px;
+	text-align: center;
+}
 
 /*#block-views-slideshow-researches-block-2 .views-field-field-research-description {
 	position: absolute;
