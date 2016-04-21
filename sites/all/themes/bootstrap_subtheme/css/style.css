@@ -3,29 +3,22 @@
 body {
 	background: #FFFFFF url('../images/honey_im_subtle.jpg') top left repeat;
 }
-
 .main-container {
 	padding: 5px 0 25px 0;
 }
-
-
 .page-header {
 	margin: 5px 5px 20px 5px;
 	border-bottom: 1px solid #b3b3b3;
 }
-
 .block-title {
 	font-size: 1.7em;
 }
-
 .footer {
 	border-top: 1px solid #b3b3b3;
 }
-
 .footer-menu li {
 	display: inline-block;
 }
-
 .breadcrumb {
 	margin-top: 5px;
 }
@@ -48,12 +41,9 @@ body {
 #block-views-front-3-columns-block  {
 	padding: 30px 10px 10px 10px;
 }
-
-
 #block-views-front-3-columns-block .caption {
 	font-family: georgia,serif;
 }
-
 #block-views-front-3-columns-block .caption h3 a {
 	font-style: bold;
 }
@@ -163,11 +153,6 @@ body {
 	color: rgb(0, 136, 204);
 }
 
-/* Juicebox Gallery */
-.field-name-field-gallery {
-	padding-top: 20px;
-}
-
 /* Language Icons */
 #block-locale-language li {
 	display: inline;	
@@ -222,7 +207,7 @@ body {
 	text-align: center;
 }*/
 
-#block-views-researchers-block-2 .views-field-field-researcher-photo {
+/*#block-views-researchers-block-2 .views-field-field-researcher-photo {
 	padding-bottom: 40px; 
 }
 #block-views-researchers-block-2 .views-field-title {
@@ -235,8 +220,14 @@ body {
 	padding: 10px;
 	text-align: center;
 	font-size: 20px;
-}
+}*/
 #block-views-researchers-block-2 .flex-control-paging li a {
 	height: 0;
 	width: 0;
+}
+
+
+/* Juicebox Gallery */
+.field-name-field-gallery {
+	padding-top: 20px;
 }
