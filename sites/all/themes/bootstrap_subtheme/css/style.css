@@ -23,31 +23,6 @@ body {
 	margin-top: 5px;
 }
 
-/* Researches */
-#block-views-slideshow-researches-block {
-	text-align: justify;
-	padding-top: 20px;	
-}
-#block-views-slideshow-researches-block-1 {
-	margin-top: 30px;
-	border-top: 1px solid #b3b3b3;
-}
-#block-views-slideshow-researches-block-1 .caption {
-	text-align: justify;
-	padding: 10px;
-}
-
-/* Front Page */
-#block-views-front-3-columns-block  {
-	padding: 30px 10px 10px 10px;
-}
-#block-views-front-3-columns-block .caption {
-	font-family: georgia,serif;
-}
-#block-views-front-3-columns-block .caption h3 a {
-	font-style: bold;
-}
-
 /* Recent: News and Publications */
 #block-views-recent-news-block .block-title {
 	margin-top: 15px;
@@ -75,6 +50,31 @@ body {
 }
 #block-views-news-view-block-1 .field-content {
 	padding-bottom: 10px;
+}
+
+/* Researches */
+#block-views-slideshow-researches-block {
+	/*text-align: justify;*/
+	padding-top: 20px;	
+}
+#block-views-slideshow-researches-block-1 {
+	margin-top: 30px;
+	border-top: 1px solid #b3b3b3;
+}
+#block-views-slideshow-researches-block-1 .caption {
+	/*text-align: justify;*/
+	padding: 10px;
+}
+
+/* Front Page */
+#block-views-front-3-columns-block  {
+	padding: 30px 10px 10px 10px;
+}
+#block-views-front-3-columns-block .caption {
+	font-family: georgia,serif;
+}
+#block-views-front-3-columns-block .caption h3 a {
+	font-style: bold;
 }
 
 /* Projects View */
