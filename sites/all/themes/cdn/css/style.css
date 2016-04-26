@@ -1,0 +1,233 @@
+
+/* General */
+body {
+	background: #FFFFFF url('../images/honey_im_subtle.jpg') top left repeat;
+}
+.main-container {
+	padding: 5px 0 25px 0;
+}
+.page-header {
+	margin: 5px 5px 20px 5px;
+	border-bottom: 1px solid #b3b3b3;
+}
+.block-title {
+	font-size: 1.7em;
+}
+.footer {
+	border-top: 1px solid #b3b3b3;
+}
+.footer-menu li {
+	display: inline-block;
+}
+.breadcrumb {
+	margin-top: 5px;
+}
+
+/* Recent: News and Publications */
+#block-views-recent-news-block .block-title {
+	margin-top: 15px;
+}
+#block-views-recent-news-block .views-row {
+	padding-bottom: 5px;
+}
+
+#block-views-recent-news-block-1 .block-title {
+	margin-top: 15px;
+}
+#block-views-recent-news-block-1 .views-row {
+	padding-bottom: 5px;
+}
+
+/* Posts: News and Publications*/
+#block-views-news-view-block .view {
+	margin: 10px;
+}
+#block-views-news-view-block .field-content {
+	padding-bottom: 10px;
+}
+#block-views-news-view-block-1 .view {
+	margin: 10px;
+}
+#block-views-news-view-block-1 .field-content {
+	padding-bottom: 10px;
+}
+
+/* Researches */
+#block-views-slideshow-researches-block {
+	/*text-align: justify;*/
+	padding-top: 20px;	
+}
+#block-views-slideshow-researches-block-1 {
+	margin-top: 30px;
+	border-top: 1px solid #b3b3b3;
+}
+#block-views-slideshow-researches-block-1 .caption {
+	/*text-align: justify;*/
+	padding: 10px;
+}
+
+/* Front Page */
+#block-views-front-3-columns-block  {
+	padding: 30px 10px 10px 10px;
+}
+#block-views-front-3-columns-block .caption {
+	font-family: georgia,serif;
+}
+#block-views-front-3-columns-block .caption h3 a {
+	font-style: bold;
+}
+
+/* Projects View */
+#block-views-projects-views-block-4 img {
+	display: block;
+	margin: 10px auto 0 auto;
+}
+#block-views-projects-views-block-4 .caption {
+	text-align: justify;	
+	padding: 20px;
+}
+#block-views-projects-views-block-4 .caption h3 {
+	text-align: center;
+}
+#block-views-projects-views-block-5 img {
+	display: block;
+	margin: 10px auto 0 auto;
+}
+#block-views-projects-views-block-5 .caption {
+	text-align: justify;	
+	padding: 20px;
+}
+#block-views-projects-views-block-5 .caption h3 {
+	text-align: center;
+}
+#block-views-projects-views-block-6 img {
+	display: block;
+	margin: 10px auto 0 auto;
+}
+#block-views-projects-views-block-6 .caption {
+	text-align: justify;	
+	padding: 20px;
+}
+#block-views-projects-views-block-6 .caption h3 {
+	text-align: center;
+}
+#block-views-projects-views-block-7 img {
+	display: block;
+	margin: 10px auto 0 auto;
+}
+#block-views-projects-views-block-7 .caption {
+	text-align: justify;	
+	padding: 20px;
+}
+#block-views-projects-views-block-7 .caption h3 {
+	text-align: center;
+}
+
+/* Researchers */
+#block-views-researchers-block .caption {
+	text-align: justify;
+}
+#block-views-researchers-block .caption h3 {
+	text-align: left;
+}
+
+/* Timelines: News and Publication */
+#block-views-timeline-block-1 p {
+	text-align: justify;
+	color: #000d1a;
+}
+#block-views-timeline-block-1 h3 {
+	text-align: center;
+}
+#block-views-timeline-block-1 .container a {
+	color: rgb(0, 136, 204);
+}
+#block-views-timeline-block-2 p {
+	text-align: justify;
+	color: #000d1a;
+}
+#block-views-timeline-block-2 h3 {
+	text-align: center;
+}
+#block-views-timeline-block-2 .container a {
+	color: rgb(0, 136, 204);
+}
+
+/* Language Icons */
+#block-locale-language li {
+	display: inline;	
+	float: right;
+}
+#block-locale-language li img {
+	padding: 0;
+	border: 0;
+	margin: 2px;
+}
+#block-locale-language .en .language-icon {
+	width: 35px;
+	height: 24px;
+}
+
+#block-views-front-3-columns-block-1 .views-field-title a {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background: #000;
+	padding: 10px;
+	font-size: 20px;
+	text-align: center;
+}
+
+/*#block-views-slideshow-researches-block-2 .views-field-field-research-description {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background: #000;
+	color: #fff;
+	padding: 10px;
+}
+#block-views-slideshow-researches-block-2 .views-field-title a {
+	font-size: 20px;
+	text-align: center;
+}
+
+#block-views-projects-views-block-8 .flex-caption {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background: #000;
+	color: #fff;
+	padding: 10px;
+}
+#block-views-projects-views-block-8 .flex-caption a {
+	font-size: 20px;
+	text-align: center;
+}*/
+
+/*#block-views-researchers-block-2 .views-field-field-researcher-photo {
+	padding-bottom: 40px; 
+}
+#block-views-researchers-block-2 .views-field-title {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background: #000;
+	color: #fff;
+	padding: 10px;
+	text-align: center;
+	font-size: 20px;
+}*/
+#block-views-researchers-block-2 .flex-control-paging li a {
+	height: 0;
+	width: 0;
+}
+
+
+/* Juicebox Gallery */
+.field-name-field-gallery {
+	padding-top: 20px;
+}
