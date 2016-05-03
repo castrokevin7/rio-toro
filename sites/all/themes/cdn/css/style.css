@@ -6,6 +6,11 @@ body {
 p {
 	font-family: abel;
 }
+.breadcrumb {
+	visibility: hidden;
+	margin: 0;
+	padding: 0;
+}
 .main-container {
 	padding: 5px 0 25px 0;
 }
@@ -22,8 +27,9 @@ p {
 .footer-menu li {
 	display: inline-block;
 }
-.breadcrumb {
-	margin-top: 5px;
+.caption {
+	font-family: abel;
+	font-size: 18px;
 }
 
 /* Recent: News and Publications */
@@ -126,6 +132,9 @@ p {
 #block-views-researchers-block-2 .flex-control-paging li a {
 	height: 0;
 	width: 0;
+}
+#block-views-researcher-photo-block-1 {
+	font-size: 20px;
 }
 
 /* Timelines: News and Publication */
