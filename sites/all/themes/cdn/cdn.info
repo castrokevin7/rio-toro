@@ -35,4 +35,8 @@ scripts[] = 'jquery.smartmenus.js'
 scripts[] = 'addons/bootstrap/jquery.smartmenus.bootstrap.js'
 scripts[] = 'js/script.js'
 
+;;;;;;;;;;;;;;;;;;;;;
+;; Fonts
+;;;;;;;;;;;;;;;;;;;;;
 
+fonts[google_fonts_api][] = "Abel&subset=latin#regular"
