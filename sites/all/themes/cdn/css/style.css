@@ -79,9 +79,6 @@ p {
 	font-family: abel;
 	font-size: 18px;
 }
-#block-views-front-3-columns-block .caption h3 a {
-	font-style: bold;
-}
 
 /* Projects View */
 #block-views-projects-views-block-4 img {
@@ -133,7 +130,6 @@ p {
 
 /* Timelines: News and Publication */
 #block-views-timeline-block-1 p {
-	text-align: justify;
 	color: #000d1a;
 }
 #block-views-timeline-block-1 h3 {
@@ -143,7 +139,6 @@ p {
 	color: rgb(0, 136, 204);
 }
 #block-views-timeline-block-2 p {
-	text-align: justify;
 	color: #000d1a;
 }
 #block-views-timeline-block-2 h3 {
