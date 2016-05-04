@@ -62,12 +62,12 @@ p {
 }
 
 /* Researches */
-#block-views-project-objetive-block .field-content {
-	font-family: abel;
-	font-size: 18px;
-}
 #block-views-slideshow-researches-block {
 	padding-top: 20px;	
+}
+#block-views-slideshow-researches-block .thumbnail img:hover {
+    opacity: 0.4;
+    filter: alpha(opacity=40);	
 }
 #block-views-slideshow-researches-block-1 {
 	margin-top: 30px;
@@ -84,6 +84,10 @@ p {
 #block-views-front-3-columns-block .caption {
 	font-family: abel;
 	font-size: 18px;
+}
+#block-views-front-3-columns-block .thumbnail img:hover {
+    opacity: 0.4;
+    filter: alpha(opacity=40);
 }
 
 /* Projects View */
@@ -126,6 +130,10 @@ p {
 }
 #block-views-projects-views-block-7 .caption h3 {
 	text-align: center;
+}
+#block-views-project-objetive-block .field-content {
+	font-family: abel;
+	font-size: 18px;
 }
 
 /* Researchers */
