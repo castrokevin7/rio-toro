@@ -137,17 +137,6 @@ p {
 }
 
 /* Researchers */
-#block-views-researchers-block-2 .views-field-title a {
-	font-size: 20px;
-}
-#block-views-researchers-block-2 .flex-control-paging li a {
-	height: 0;
-	width: 0;
-}
-#block-views-researcher-photo-block-1 {
-	font-size: 20px;
-}
-
 #block-views-researcher-photo-block-2 .views-field-title a {
 	font-size: 20px;
 }
