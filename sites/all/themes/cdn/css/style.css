@@ -144,8 +144,13 @@ p {
 	height: 0;
 	width: 0;
 }
-#block-views-researcher-photo-block-2 {
-	font-size: 20px;
+#block-views-researcher-photo-block-2 .flexslider {
+	margin: 0;
+}
+#block-views-researcher-photo-block-2 .field-content {
+	display: block;
+	text-align: center;
+	background-color: #c2c2a3;
 }
 
 /* Timelines: News and Publication */
