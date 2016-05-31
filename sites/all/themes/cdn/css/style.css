@@ -134,6 +134,7 @@ p {
 #block-views-project-objetive-block .field-content {
 	font-family: abel;
 	font-size: 18px;
+	text-align: justify;
 }
 
 /* Researchers */
@@ -150,7 +151,6 @@ p {
 #block-views-researcher-photo-block-2 .field-content {
 	display: block;
 	text-align: center;
-	background-color: #c2c2a3;
 }
 
 /* Timelines: News and Publication */
@@ -190,4 +190,8 @@ p {
 
 .field-name-field-gallery {
 	padding-top: 10px;
+}
+
+#block-system-main #flexslider-1 {
+	margin-top: 20px;
 }
