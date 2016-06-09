@@ -127,7 +127,7 @@ p {
 }
 #block-views-projects-views-block-7 .caption {
 	padding: 20px;
-}
+}<
 #block-views-projects-views-block-7 .caption h3 {
 	text-align: center;
 }
@@ -151,6 +151,9 @@ p {
 #block-views-researcher-photo-block-2 .field-content {
 	display: block;
 	text-align: center;
+}
+#block-views-researcher-photo-block .field-content img {
+	margin-bottom: 10px;
 }
 
 /* Timelines: News and Publication */
